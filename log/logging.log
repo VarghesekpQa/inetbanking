@@ -1,0 +1,111 @@
+2021-10-28 16:29:19 INFO  iNetBanking:14 - url opened
+2021-10-28 16:29:20 INFO  iNetBanking:19 - username entered
+2021-10-28 16:29:20 INFO  iNetBanking:22 - password entered
+2021-10-28 16:29:21 INFO  iNetBanking:28 - login test passed
+2021-10-28 16:42:43 INFO  iNetBanking:14 - url opened
+2021-10-28 16:42:43 INFO  iNetBanking:19 - username entered
+2021-10-28 16:42:43 INFO  iNetBanking:22 - password entered
+2021-10-28 16:42:45 INFO  iNetBanking:28 - login test passed
+2021-10-28 17:15:08 INFO  iNetBanking:14 - url opened
+2021-10-28 17:15:08 INFO  iNetBanking:19 - username entered
+2021-10-28 17:15:08 INFO  iNetBanking:22 - password entered
+2021-10-28 17:15:09 INFO  iNetBanking:28 - login test passed
+2021-10-28 17:17:51 INFO  iNetBanking:14 - url opened
+2021-10-28 17:17:51 INFO  iNetBanking:19 - username entered
+2021-10-28 17:17:51 INFO  iNetBanking:22 - password entered
+2021-10-28 17:17:53 INFO  iNetBanking:28 - login test passed
+2021-10-28 17:18:30 INFO  iNetBanking:14 - url opened
+2021-10-28 17:18:31 INFO  iNetBanking:19 - username entered
+2021-10-28 17:18:31 INFO  iNetBanking:22 - password entered
+2021-10-28 17:18:32 INFO  iNetBanking:28 - login test passed
+2021-10-28 19:44:32 INFO  iNetBanking:16 - url opened
+2021-10-28 19:44:33 INFO  iNetBanking:21 - username entered
+2021-10-28 19:44:33 INFO  iNetBanking:24 - password entered
+2021-10-28 19:47:32 INFO  iNetBanking:16 - url opened
+2021-10-28 19:47:33 INFO  iNetBanking:21 - username entered
+2021-10-28 19:47:33 INFO  iNetBanking:24 - password entered
+2021-10-29 18:16:00 INFO  iNetBanking:19 - url opened
+2021-10-29 18:16:00 INFO  iNetBanking:24 - username provided
+2021-10-29 18:16:00 INFO  iNetBanking:26 - password provided
+2021-10-29 18:16:01 INFO  iNetBanking:28 - submit buttom clicked
+2021-10-29 18:16:08 WARN  iNetBanking:44 - login passed
+2021-10-29 18:16:08 INFO  iNetBanking:19 - url opened
+2021-10-29 18:16:08 INFO  iNetBanking:24 - username provided
+2021-10-29 18:16:08 INFO  iNetBanking:26 - password provided
+2021-10-29 18:16:09 INFO  iNetBanking:28 - submit buttom clicked
+2021-10-29 18:16:13 INFO  iNetBanking:19 - url opened
+2021-10-29 18:16:14 INFO  iNetBanking:24 - username provided
+2021-10-29 18:16:14 INFO  iNetBanking:26 - password provided
+2021-10-29 18:16:14 INFO  iNetBanking:28 - submit buttom clicked
+2021-10-29 18:16:22 WARN  iNetBanking:44 - login passed
+2021-10-29 18:16:22 INFO  iNetBanking:19 - url opened
+2021-10-29 18:16:22 INFO  iNetBanking:24 - username provided
+2021-10-29 18:16:22 INFO  iNetBanking:26 - password provided
+2021-10-29 18:16:23 INFO  iNetBanking:28 - submit buttom clicked
+2021-10-29 18:22:19 INFO  iNetBanking:19 - url opened
+2021-10-29 18:22:19 INFO  iNetBanking:24 - username provided
+2021-10-29 18:22:19 INFO  iNetBanking:26 - password provided
+2021-10-29 18:22:20 INFO  iNetBanking:28 - submit buttom clicked
+2021-10-29 18:22:28 WARN  iNetBanking:45 - login passed
+2021-10-29 18:22:28 INFO  iNetBanking:19 - url opened
+2021-10-29 18:22:28 INFO  iNetBanking:24 - username provided
+2021-10-29 18:22:28 INFO  iNetBanking:26 - password provided
+2021-10-29 18:22:29 INFO  iNetBanking:28 - submit buttom clicked
+2021-10-29 18:22:34 INFO  iNetBanking:19 - url opened
+2021-10-29 18:22:34 INFO  iNetBanking:24 - username provided
+2021-10-29 18:22:34 INFO  iNetBanking:26 - password provided
+2021-10-29 18:22:35 INFO  iNetBanking:28 - submit buttom clicked
+2021-10-29 18:22:42 WARN  iNetBanking:45 - login passed
+2021-10-29 18:22:42 INFO  iNetBanking:19 - url opened
+2021-10-29 18:22:42 INFO  iNetBanking:24 - username provided
+2021-10-29 18:22:42 INFO  iNetBanking:26 - password provided
+2021-10-29 18:22:43 INFO  iNetBanking:28 - submit buttom clicked
+2021-10-29 18:26:00 INFO  iNetBanking:19 - url opened
+2021-10-29 18:26:00 INFO  iNetBanking:24 - username provided
+2021-10-29 18:26:00 INFO  iNetBanking:26 - password provided
+2021-10-29 18:26:01 INFO  iNetBanking:28 - submit buttom clicked
+2021-10-29 18:26:08 WARN  iNetBanking:45 - login passed
+2021-10-29 18:26:08 INFO  iNetBanking:19 - url opened
+2021-10-29 18:26:08 INFO  iNetBanking:24 - username provided
+2021-10-29 18:26:08 INFO  iNetBanking:26 - password provided
+2021-10-29 18:26:09 INFO  iNetBanking:28 - submit buttom clicked
+2021-10-29 18:26:14 INFO  iNetBanking:19 - url opened
+2021-10-29 18:26:14 INFO  iNetBanking:24 - username provided
+2021-10-29 18:26:14 INFO  iNetBanking:26 - password provided
+2021-10-29 18:26:15 INFO  iNetBanking:28 - submit buttom clicked
+2021-10-29 18:26:22 WARN  iNetBanking:45 - login passed
+2021-10-29 18:26:22 INFO  iNetBanking:19 - url opened
+2021-10-29 18:26:22 INFO  iNetBanking:24 - username provided
+2021-10-29 18:26:23 INFO  iNetBanking:26 - password provided
+2021-10-29 18:26:24 INFO  iNetBanking:28 - submit buttom clicked
+2021-10-29 18:29:07 INFO  iNetBanking:19 - url opened
+2021-10-29 18:29:07 INFO  iNetBanking:24 - username provided
+2021-10-29 18:29:07 INFO  iNetBanking:26 - password provided
+2021-10-29 18:29:08 INFO  iNetBanking:28 - submit buttom clicked
+2021-10-29 18:29:15 WARN  iNetBanking:46 - login passed
+2021-10-29 18:29:15 INFO  iNetBanking:19 - url opened
+2021-10-29 18:29:15 INFO  iNetBanking:24 - username provided
+2021-10-29 18:29:15 INFO  iNetBanking:26 - password provided
+2021-10-29 18:29:16 INFO  iNetBanking:28 - submit buttom clicked
+2021-10-29 18:29:21 INFO  iNetBanking:19 - url opened
+2021-10-29 18:29:21 INFO  iNetBanking:24 - username provided
+2021-10-29 18:29:21 INFO  iNetBanking:26 - password provided
+2021-10-29 18:29:22 INFO  iNetBanking:28 - submit buttom clicked
+2021-10-29 18:29:29 WARN  iNetBanking:46 - login passed
+2021-10-29 18:29:29 INFO  iNetBanking:19 - url opened
+2021-10-29 18:29:29 INFO  iNetBanking:24 - username provided
+2021-10-29 18:29:29 INFO  iNetBanking:26 - password provided
+2021-10-29 18:29:30 INFO  iNetBanking:28 - submit buttom clicked
+2021-10-30 10:20:10 INFO  iNetBanking:19 - username provided
+2021-10-30 10:20:10 INFO  iNetBanking:21 - password provided
+2021-10-30 10:20:15 INFO  iNetBanking:29 - customer name provided
+2021-10-30 10:20:15 INFO  iNetBanking:31 - customer gender provided
+2021-10-30 10:20:15 INFO  iNetBanking:33 - customer dob provided
+2021-10-30 10:20:18 INFO  iNetBanking:37 - customer address provided
+2021-10-30 10:20:18 INFO  iNetBanking:39 - customer city provided
+2021-10-30 10:20:18 INFO  iNetBanking:41 - customer state provided
+2021-10-30 10:20:18 INFO  iNetBanking:43 - customer pin provided
+2021-10-30 10:20:18 INFO  iNetBanking:45 - customer mobnumber provided
+2021-10-30 10:20:18 INFO  iNetBanking:50 - customer email provided
+2021-10-30 10:20:18 INFO  iNetBanking:52 - customer password provided
+2021-10-30 10:20:20 INFO  iNetBanking:58 - testcase passed

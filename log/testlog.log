@@ -1,0 +1,164 @@
+2021-10-30 10:27:23,575 - iNetBanking -INFO - url opened
+2021-10-30 10:27:23,700 - iNetBanking -INFO - username entered
+2021-10-30 10:27:23,803 - iNetBanking -INFO - password entered
+2021-10-30 10:27:29,226 - iNetBanking -INFO - url opened
+2021-10-30 10:27:29,326 - iNetBanking -INFO - username provided
+2021-10-30 10:27:29,414 - iNetBanking -INFO - password provided
+2021-10-30 10:27:30,525 - iNetBanking -INFO - submit buttom clicked
+2021-10-30 10:27:37,336 - iNetBanking -WARN - login passed
+2021-10-30 10:27:37,339 - iNetBanking -INFO - url opened
+2021-10-30 10:27:37,407 - iNetBanking -INFO - username provided
+2021-10-30 10:27:37,466 - iNetBanking -INFO - password provided
+2021-10-30 10:27:38,611 - iNetBanking -INFO - submit buttom clicked
+2021-10-30 10:27:43,247 - iNetBanking -INFO - url opened
+2021-10-30 10:27:43,313 - iNetBanking -INFO - username provided
+2021-10-30 10:27:43,379 - iNetBanking -INFO - password provided
+2021-10-30 10:27:44,198 - iNetBanking -INFO - submit buttom clicked
+2021-10-30 10:27:50,899 - iNetBanking -WARN - login passed
+2021-10-30 10:27:50,901 - iNetBanking -INFO - url opened
+2021-10-30 10:27:50,972 - iNetBanking -INFO - username provided
+2021-10-30 10:27:51,033 - iNetBanking -INFO - password provided
+2021-10-30 10:27:51,985 - iNetBanking -INFO - submit buttom clicked
+2021-10-30 10:28:00,616 - iNetBanking -INFO - username provided
+2021-10-30 10:28:00,702 - iNetBanking -INFO - password provided
+2021-10-30 10:28:05,380 - iNetBanking -INFO - customer name provided
+2021-10-30 10:28:05,447 - iNetBanking -INFO - customer gender provided
+2021-10-30 10:28:05,588 - iNetBanking -INFO - customer dob provided
+2021-10-30 10:28:08,667 - iNetBanking -INFO - customer address provided
+2021-10-30 10:28:08,728 - iNetBanking -INFO - customer city provided
+2021-10-30 10:28:08,789 - iNetBanking -INFO - customer state provided
+2021-10-30 10:28:08,861 - iNetBanking -INFO - customer pin provided
+2021-10-30 10:28:08,947 - iNetBanking -INFO - customer mobnumber provided
+2021-10-30 10:28:09,041 - iNetBanking -INFO - customer email provided
+2021-10-30 10:28:09,115 - iNetBanking -INFO - customer password provided
+2021-10-30 10:28:10,779 - iNetBanking -INFO - testcase passed
+2021-10-30 10:31:55,507 - iNetBanking -INFO - url opened
+2021-10-30 10:31:55,636 - iNetBanking -INFO - username provided
+2021-10-30 10:31:55,735 - iNetBanking -INFO - password provided
+2021-10-30 10:31:56,229 - iNetBanking -INFO - submit buttom clicked
+2021-10-30 10:32:00,380 - iNetBanking -INFO - url opened
+2021-10-30 10:32:00,455 - iNetBanking -INFO - username provided
+2021-10-30 10:32:00,518 - iNetBanking -INFO - password provided
+2021-10-30 10:32:00,912 - iNetBanking -INFO - submit buttom clicked
+2021-10-30 10:32:10,185 - iNetBanking -INFO - url opened
+2021-10-30 10:32:10,268 - iNetBanking -INFO - username entered
+2021-10-30 10:32:10,345 - iNetBanking -INFO - password entered
+2021-10-30 10:32:11,469 - iNetBanking -INFO - login test passed
+2021-10-30 12:10:09,067 - iNetBanking -INFO - url opened
+2021-10-30 12:10:09,401 - iNetBanking -INFO - username entered
+2021-10-30 12:10:09,584 - iNetBanking -INFO - password entered
+2021-10-30 12:10:11,347 - iNetBanking -INFO - login test passed
+2021-10-30 12:10:15,658 - iNetBanking -INFO - username provided
+2021-10-30 12:10:15,805 - iNetBanking -INFO - password provided
+2021-10-30 12:10:21,356 - iNetBanking -INFO - customer name provided
+2021-10-30 12:10:21,436 - iNetBanking -INFO - customer gender provided
+2021-10-30 12:10:21,622 - iNetBanking -INFO - customer dob provided
+2021-10-30 12:10:24,900 - iNetBanking -INFO - customer address provided
+2021-10-30 12:10:25,031 - iNetBanking -INFO - customer city provided
+2021-10-30 12:10:25,143 - iNetBanking -INFO - customer state provided
+2021-10-30 12:10:25,263 - iNetBanking -INFO - customer pin provided
+2021-10-30 12:10:25,381 - iNetBanking -INFO - customer mobnumber provided
+2021-10-30 12:10:25,544 - iNetBanking -INFO - customer email provided
+2021-10-30 12:10:25,653 - iNetBanking -INFO - customer password provided
+2021-10-30 12:10:27,062 - iNetBanking -INFO - testcase passed
+2021-10-30 13:00:08,851 - iNetBanking -INFO - url opened
+2021-10-30 13:00:09,055 - iNetBanking -INFO - username entered
+2021-10-30 13:00:09,189 - iNetBanking -INFO - password entered
+2021-10-30 13:00:10,527 - iNetBanking -INFO - login test passed
+2021-10-30 13:00:15,170 - iNetBanking -INFO - username provided
+2021-10-30 13:00:15,315 - iNetBanking -INFO - password provided
+2021-10-30 13:00:20,923 - iNetBanking -INFO - customer name provided
+2021-10-30 13:00:20,999 - iNetBanking -INFO - customer gender provided
+2021-10-30 13:00:21,191 - iNetBanking -INFO - customer dob provided
+2021-10-30 13:00:24,372 - iNetBanking -INFO - customer address provided
+2021-10-30 13:00:24,483 - iNetBanking -INFO - customer city provided
+2021-10-30 13:00:24,581 - iNetBanking -INFO - customer state provided
+2021-10-30 13:00:24,702 - iNetBanking -INFO - customer pin provided
+2021-10-30 13:00:24,820 - iNetBanking -INFO - customer mobnumber provided
+2021-10-30 13:00:24,963 - iNetBanking -INFO - customer email provided
+2021-10-30 13:00:25,074 - iNetBanking -INFO - customer password provided
+2021-10-30 13:00:26,419 - iNetBanking -INFO - testcase passed
+2021-10-30 13:09:52,122 - iNetBanking -INFO - url opened
+2021-10-30 13:09:52,373 - iNetBanking -INFO - username entered
+2021-10-30 13:09:52,531 - iNetBanking -INFO - password entered
+2021-10-30 13:09:53,814 - iNetBanking -INFO - login test passed
+2021-10-30 13:09:58,167 - iNetBanking -INFO - username provided
+2021-10-30 13:09:58,284 - iNetBanking -INFO - password provided
+2021-10-30 13:10:03,936 - iNetBanking -INFO - customer name provided
+2021-10-30 13:10:04,013 - iNetBanking -INFO - customer gender provided
+2021-10-30 13:10:04,194 - iNetBanking -INFO - customer dob provided
+2021-10-30 13:10:07,370 - iNetBanking -INFO - customer address provided
+2021-10-30 13:10:07,484 - iNetBanking -INFO - customer city provided
+2021-10-30 13:10:07,602 - iNetBanking -INFO - customer state provided
+2021-10-30 13:10:07,731 - iNetBanking -INFO - customer pin provided
+2021-10-30 13:10:07,876 - iNetBanking -INFO - customer mobnumber provided
+2021-10-30 13:10:08,068 - iNetBanking -INFO - customer email provided
+2021-10-30 13:10:08,179 - iNetBanking -INFO - customer password provided
+2021-10-30 13:10:09,499 - iNetBanking -INFO - testcase passed
+2021-10-30 14:32:57,874 - iNetBanking -INFO - url opened
+2021-10-30 14:32:58,289 - iNetBanking -INFO - username entered
+2021-10-30 14:32:58,457 - iNetBanking -INFO - password entered
+2021-10-30 14:32:59,646 - iNetBanking -INFO - login test passed
+2021-10-30 14:33:03,376 - iNetBanking -INFO - username provided
+2021-10-30 14:33:03,695 - iNetBanking -INFO - password provided
+2021-10-30 14:33:08,588 - iNetBanking -INFO - customer name provided
+2021-10-30 14:33:08,662 - iNetBanking -INFO - customer gender provided
+2021-10-30 14:33:08,837 - iNetBanking -INFO - customer dob provided
+2021-10-30 14:33:12,010 - iNetBanking -INFO - customer address provided
+2021-10-30 14:33:12,122 - iNetBanking -INFO - customer city provided
+2021-10-30 14:33:12,241 - iNetBanking -INFO - customer state provided
+2021-10-30 14:33:12,367 - iNetBanking -INFO - customer pin provided
+2021-10-30 14:33:12,494 - iNetBanking -INFO - customer mobnumber provided
+2021-10-30 14:33:12,658 - iNetBanking -INFO - customer email provided
+2021-10-30 14:33:12,759 - iNetBanking -INFO - customer password provided
+2021-10-30 14:33:14,636 - iNetBanking -INFO - testcase passed
+2021-10-30 16:59:59,738 - iNetBanking -INFO - url opened
+2021-10-30 16:59:59,974 - iNetBanking -INFO - username entered
+2021-10-30 17:00:00,074 - iNetBanking -INFO - password entered
+2021-10-30 17:00:01,269 - iNetBanking -INFO - login test passed
+2021-10-30 17:00:05,166 - iNetBanking -INFO - username provided
+2021-10-30 17:00:05,261 - iNetBanking -INFO - password provided
+2021-10-30 17:00:10,779 - iNetBanking -INFO - customer name provided
+2021-10-30 17:00:10,842 - iNetBanking -INFO - customer gender provided
+2021-10-30 17:00:10,993 - iNetBanking -INFO - customer dob provided
+2021-10-30 17:00:14,146 - iNetBanking -INFO - customer address provided
+2021-10-30 17:00:14,213 - iNetBanking -INFO - customer city provided
+2021-10-30 17:00:14,278 - iNetBanking -INFO - customer state provided
+2021-10-30 17:00:14,348 - iNetBanking -INFO - customer pin provided
+2021-10-30 17:00:14,431 - iNetBanking -INFO - customer mobnumber provided
+2021-10-30 17:00:14,536 - iNetBanking -INFO - customer email provided
+2021-10-30 17:00:14,610 - iNetBanking -INFO - customer password provided
+2021-10-30 17:02:09,468 - iNetBanking -INFO - url opened
+2021-10-30 17:02:09,634 - iNetBanking -INFO - username entered
+2021-10-30 17:02:09,726 - iNetBanking -INFO - password entered
+2021-10-30 17:02:10,905 - iNetBanking -INFO - login test passed
+2021-10-30 17:02:14,292 - iNetBanking -INFO - username provided
+2021-10-30 17:02:14,387 - iNetBanking -INFO - password provided
+2021-10-30 17:02:19,776 - iNetBanking -INFO - customer name provided
+2021-10-30 17:02:19,847 - iNetBanking -INFO - customer gender provided
+2021-10-30 17:02:19,989 - iNetBanking -INFO - customer dob provided
+2021-10-30 17:02:23,157 - iNetBanking -INFO - customer address provided
+2021-10-30 17:02:23,230 - iNetBanking -INFO - customer city provided
+2021-10-30 17:02:23,315 - iNetBanking -INFO - customer state provided
+2021-10-30 17:02:23,407 - iNetBanking -INFO - customer pin provided
+2021-10-30 17:02:23,496 - iNetBanking -INFO - customer mobnumber provided
+2021-10-30 17:02:23,648 - iNetBanking -INFO - customer email provided
+2021-10-30 17:02:23,726 - iNetBanking -INFO - customer password provided
+2021-10-30 17:02:25,000 - iNetBanking -INFO - testcase passed
+2021-10-30 17:02:50,022 - iNetBanking -INFO - url opened
+2021-10-30 17:02:50,220 - iNetBanking -INFO - username entered
+2021-10-30 17:02:50,324 - iNetBanking -INFO - password entered
+2021-10-30 17:02:51,526 - iNetBanking -INFO - login test passed
+2021-10-30 17:02:55,443 - iNetBanking -INFO - username provided
+2021-10-30 17:02:55,530 - iNetBanking -INFO - password provided
+2021-10-30 17:03:01,115 - iNetBanking -INFO - customer name provided
+2021-10-30 17:03:01,182 - iNetBanking -INFO - customer gender provided
+2021-10-30 17:03:01,351 - iNetBanking -INFO - customer dob provided
+2021-10-30 17:03:04,506 - iNetBanking -INFO - customer address provided
+2021-10-30 17:03:04,581 - iNetBanking -INFO - customer city provided
+2021-10-30 17:03:04,661 - iNetBanking -INFO - customer state provided
+2021-10-30 17:03:04,756 - iNetBanking -INFO - customer pin provided
+2021-10-30 17:03:04,881 - iNetBanking -INFO - customer mobnumber provided
+2021-10-30 17:03:05,017 - iNetBanking -INFO - customer email provided
+2021-10-30 17:03:05,086 - iNetBanking -INFO - customer password provided
+2021-10-30 17:03:06,352 - iNetBanking -INFO - testcase passed
