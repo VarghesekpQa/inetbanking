@@ -9,7 +9,7 @@
 	<classes>
 		<class name="com.inetbanking.testCases.tc_loginTest_001"/>
 		<!-- <class name="com.inetbanking.testCases.tc_loginDdt_002"/>  -->
-		<class name="com.inetbanking.testCases.tc_addCustomer_003"/>
+		<!-- <class name="com.inetbanking.testCases.tc_addCustomer_003"/> -->
 	</classes>
 	</test>
 </suite>
